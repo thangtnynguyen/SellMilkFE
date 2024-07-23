@@ -1,0 +1,33 @@
+.main-image {
+    max-height: 400px;
+    overflow: hidden;
+}
+
+.main-img {
+    object-fit: cover;
+    width: 100%;
+}
+
+.thumbnail-img {
+    max-height: 100px;
+    cursor: pointer;
+}
+
+.product-details {
+    background-color: #f8f9fa;
+    padding: 20px;
+    border-radius: 10px;
+}
+
+.quantity-control .form-control {
+    width: 60px;
+    text-align: center;
+}
+
+.actions .btn {
+    width: 150px;
+}
+
+.actions .btn-outline-secondary {
+    margin-left: 10px;
+}

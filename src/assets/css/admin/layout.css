@@ -1,0 +1,44 @@
+/* @import url("../../../assets/css/sb-admin-2.min.css"); */
+@import url("../admin/css/sb-admin-2.min.css");
+
+.main-app {
+	display: flex;
+	min-height: 100vh;
+	/* margin-top: 66px; */
+}
+
+.sidebar-admin {
+	flex-shrink: 0;
+	margin-top: -25px;
+}
+
+.main-content {
+	/* max-width: calc(100% - 96px); */
+	padding: 0 28px 0 28px;
+	flex: 1 1;
+}
+
+.bg-gradient-primary{
+    background-image: linear-gradient(to right, #07aad2 , #7786e4) !important;
+}
+
+.black-color{
+	color: #000 !important;
+}
+
+@media (max-width: 1171px) {
+	.main-content {
+		max-width: calc(100% - 160px);
+	}
+}
+
+@media (max-width: 992px) {
+	.main-app {
+		display: unset;
+	}
+
+	.main-content {
+		max-width: 100%;
+		padding: 0 20px;
+	}
+}

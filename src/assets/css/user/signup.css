@@ -1,0 +1,11 @@
+.signup-image {
+    background-image: url('https://th.bing.com/th/id/R.908e2a5a176a201be4fb892b404aca5e?rik=hoWDCZsrrP1Ing&pid=ImgRaw&r=0');
+    background-size: cover;
+    height: 100vh;
+}
+
+.signup-form {
+    max-width: 400px;
+    margin: auto;
+    padding: 20px;
+}

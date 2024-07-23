@@ -1,0 +1,18 @@
+.login-container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+  }
+  .login-left {
+    background-image: url('https://salt.tikicdn.com/cache/w1200/ts/product/39/78/b4/811073f66be74e7a6c837aa3ca34d98d.jpg');
+    background-size: cover;
+    height: 100vh;
+
+  }
+  .login-right {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+

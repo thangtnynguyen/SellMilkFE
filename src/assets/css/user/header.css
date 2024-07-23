@@ -1,0 +1,45 @@
+.drop-bellow{
+    padding: 48px;
+    
+}
+.black-border {
+    border-color: black !important;
+    color: #000000A6;
+}
+.small-img {
+    width: 30px; 
+    height: auto;
+}
+
+.navbar {
+    background-image: linear-gradient(to right, #d5e1e4 , #7786e4); /* Gradient từ xanh dương đến xanh lá cây */
+    border-radius: 10px;
+    padding: 10px;
+}
+
+.nav-link {
+    color: white;
+    font-weight: bold;
+}
+
+.detail-box {
+    border: 1px solid #ccc;
+    padding: 10px;
+    border-radius: 5px;
+  }
+  
+
+.logo .img-fluid{
+    max-width: 100px !important;
+}
+
+.nav-link{
+    color: #ffffffff !important;
+    font-weight: 700 !important; 
+}
+
+
+.bg-dark{
+    background-image: linear-gradient(to right, #d5e1e4 , #7786e4) !important;
+
+}

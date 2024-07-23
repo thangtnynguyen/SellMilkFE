@@ -1,0 +1,38 @@
+.my-modal.swal2-popup {
+    width: 800px !important; 
+    max-width: none !important;
+}
+
+
+.blank {
+    text-align: center;
+    padding: 50px;
+  }
+  
+  .img-thumbnail.ttt {
+    max-width: 100px;
+    max-height: 100px;
+  }
+  
+  .table thead th {
+    background-color: #343a40;
+    color: #fff;
+  }
+  
+  .table-responsive {
+    margin-top: 20px;
+  }
+  
+  .input-group .btn-outline-secondary {
+    border-radius: 0;
+  }
+  
+  .input-group .ttt{
+    border-radius: 0;
+    max-width: 50px;
+  }
+  
+  .d-flex .btn-primary {
+    margin-right: 20px;
+  }
+  

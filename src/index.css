@@ -1,3 +1,6 @@
+@import url("~bootstrap-icons/font/bootstrap-icons.min.css");
+@import '@fortawesome/fontawesome-free/css/all.min.css';
+
 body {
   margin: 0;
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
